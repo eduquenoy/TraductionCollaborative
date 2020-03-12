@@ -1,0 +1,144 @@
+1
+00:00:06,160 --> 00:00:07,259
+The Curves filter in GIMP
+
+2
+00:00:07,259 --> 00:00:09,679
+recently got several useful improvements.
+
+3
+00:00:10,259 --> 00:00:11,379
+You will have access to them
+
+4
+00:00:11,539 --> 00:00:14,879
+once GIMP 2.10.12 will be released,
+
+5
+00:00:15,119 --> 00:00:16,300
+which is soon enough.
+
+6
+00:00:16,839 --> 00:00:19,320
+The most visible change is the numeric input
+
+7
+00:00:19,640 --> 00:00:22,120
+to set coordinates of points on the curve.
+
+8
+00:00:22,679 --> 00:00:24,440
+It works just as expected:
+
+9
+00:00:24,760 --> 00:00:26,360
+click to select a point,
+
+10
+00:00:26,500 --> 00:00:29,500
+then edit its coordinates right here.
+
+11
+00:00:30,579 --> 00:00:33,539
+The other big change is the newly introduced
+
+12
+00:00:33,539 --> 00:00:34,560
+sharp type of points.
+
+13
+00:00:35,100 --> 00:00:37,100
+This allows making sharp
+
+14
+00:00:37,100 --> 00:00:38,899
+rather than smooth transitions,
+
+15
+00:00:38,899 --> 00:00:41,759
+and you can combine sharp and smooth points
+
+16
+00:00:41,880 --> 00:00:43,000
+on a single curve
+
+17
+00:00:43,500 --> 00:00:45,100
+Click to select a point,
+
+18
+00:00:45,100 --> 00:00:47,760
+then click here to select the point's type.
+
+19
+00:00:49,320 --> 00:00:50,160
+Speaking of which,
+
+20
+00:00:50,159 --> 00:00:52,839
+now when you click to select a point on a curve,
+
+21
+00:00:52,840 --> 00:00:54,960
+GIMP does its best not to move it.
+
+22
+00:00:55,820 --> 00:00:58,799
+Moreover, now when you press Ctrl
+
+23
+00:00:58,799 --> 00:01:01,159
+while adding or dragging a point on a curve,
+
+24
+00:01:01,259 --> 00:01:02,619
+the point will snap
+
+25
+00:01:02,619 --> 00:01:04,840
+to the original segment of the curve,
+
+26
+00:01:05,099 --> 00:01:08,039
+and all the changes will be very slight.
+
+27
+00:01:08,439 --> 00:01:09,819
+This is great for cases
+
+28
+00:01:09,819 --> 00:01:12,259
+when you need to add a bunch of points to a curve
+
+29
+00:01:12,420 --> 00:01:14,180
+and deal with them later.
+
+30
+00:01:15,060 --> 00:01:17,540
+Finally, when you hover the mouse pointer
+
+31
+00:01:17,540 --> 00:01:18,560
+over the curve point
+
+32
+00:01:18,739 --> 00:01:20,079
+or drag that point,
+
+33
+00:01:20,099 --> 00:01:23,780
+the dialog will display the curve point's coordinates
+
+34
+00:01:23,780 --> 00:01:26,120
+rather than mouse pointer coordinates.
+
+35
+00:01:26,359 --> 00:01:29,079
+All in all, a bunch of very useful changes
+
+36
+00:01:29,079 --> 00:01:31,420
+that improve GIMP's user experience.
+
