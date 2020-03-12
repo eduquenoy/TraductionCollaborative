@@ -1,0 +1,4 @@
+files:
+  - source: /BC2M/Sources/en/*.srt
+    translation: >-
+      /BC2M/Translations/%two_letters_code%/%file_name%_%two_letters_code%.%file_extension%
