@@ -64,7 +64,7 @@ on a single curve
 
 17
 00:00:43,500 --> 00:00:45,100
-Click to select a point,
+Cliquer pour sélectionner un point,
 
 18
 00:00:45,100 --> 00:00:47,760
