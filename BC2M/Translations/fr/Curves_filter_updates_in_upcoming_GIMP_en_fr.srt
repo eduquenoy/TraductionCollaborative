@@ -8,7 +8,7 @@ recently got several useful improvements.
 
 3
 00:00:10,259 --> 00:00:11,379
-You will have access to them
+Vous aurez accès à eux
 
 4
 00:00:11,539 --> 00:00:14,879
