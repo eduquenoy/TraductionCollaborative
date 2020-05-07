@@ -1,22 +1,22 @@
 1
 00:00:06,160 --> 00:00:07,259
-The Curves filter in GIMP
+Le filtre des courbes dans GIMP
 
 2
 00:00:07,259 --> 00:00:09,679
-recently got several useful improvements.
+a récemment acqueri plusieurs améliorations importantes.
 
 3
 00:00:10,259 --> 00:00:11,379
-Vous aurez accès à eux
+Vous y accéderez.
 
 4
 00:00:11,539 --> 00:00:14,879
-once GIMP 2.10.12 will be released,
+une fois que GIMP 2.10.12 sera publié.
 
 5
 00:00:15,119 --> 00:00:16,300
-which is soon enough.
+ce qui ne saurait tarder.
 
 6
 00:00:16,839 --> 00:00:19,320
@@ -24,121 +24,122 @@ The most visible change is the numeric input
 
 7
 00:00:19,640 --> 00:00:22,120
-to set coordinates of points on the curve.
+pour ajouter les coordonnées des points sur la courbe.
 
 8
 00:00:22,679 --> 00:00:24,440
-It works just as expected:
+ça fonctionne comme prévu:
 
 9
 00:00:24,760 --> 00:00:26,360
-click to select a point,
+Cliquez pour sélectionner un point.
 
 10
 00:00:26,500 --> 00:00:29,500
-then edit its coordinates right here.
+puis éditez ses coordonnées juste ici.
 
 11
 00:00:30,579 --> 00:00:33,539
-The other big change is the newly introduced
+L'autre grand changement est le nouveau introduit
 
 12
 00:00:33,539 --> 00:00:34,560
-sharp type of points.
+type de points précis.
 
 13
 00:00:35,100 --> 00:00:37,100
-This allows making sharp
+Cela permet de rendre plus précis. 
 
 14
 00:00:37,100 --> 00:00:38,899
-rather than smooth transitions,
+plutôt que des transitions en douceur.
 
 15
 00:00:38,899 --> 00:00:41,759
-and you can combine sharp and smooth points
+et vous pouvez combiner des pointes pointues ou lisses.
 
 16
 00:00:41,880 --> 00:00:43,000
-on a single curve
+sur la seule courbe.
 
 17
 00:00:43,500 --> 00:00:45,100
-Cliquer pour sélectionner un point,
+Cliquez pour sélectionner un point,
 
 18
 00:00:45,100 --> 00:00:47,760
-then click here to select the point's type.
+puis cliquez ici pour sélectionner le type de point
 
 19
 00:00:49,320 --> 00:00:50,160
-Speaking of which,
+En parlant de cela.
 
 20
 00:00:50,159 --> 00:00:52,839
-now when you click to select a point on a curve,
+maintenant lorsque vous cliquez pour sélectionner un point sur une courbe.
 
 21
 00:00:52,840 --> 00:00:54,960
-GIMP does its best not to move it.
+GIMP fait de son mieux pour ne pas le déplacer.
 
 22
 00:00:55,820 --> 00:00:58,799
-Moreover, now when you press Ctrl
+De plus, maintenant, quand vous appuyez sur Ctrl.
 
 23
 00:00:58,799 --> 00:01:01,159
-while adding or dragging a point on a curve,
+en ajoutant ou en déplaçant un point sur une courbe.
 
 24
 00:01:01,259 --> 00:01:02,619
-the point will snap
+le point va s'arrêter.
 
 25
 00:01:02,619 --> 00:01:04,840
-to the original segment of the curve,
+vers le segment d'origine de la courbe.
 
 26
 00:01:05,099 --> 00:01:08,039
-and all the changes will be very slight.
+et toutes modifications seront très faibles.
 
 27
 00:01:08,439 --> 00:01:09,819
-This is great for cases
+C'est idéal pour les projets. 
 
 28
 00:01:09,819 --> 00:01:12,259
-when you need to add a bunch of points to a curve
+Lorsque vous devez ajouter un tas de points à une courbe.
 
 29
 00:01:12,420 --> 00:01:14,180
-and deal with them later.
+
+et traiter avec eux plus tard.
 
 30
 00:01:15,060 --> 00:01:17,540
-Finally, when you hover the mouse pointer
+Enfin, lorsque vous survolez avec votre souris.
 
 31
 00:01:17,540 --> 00:01:18,560
-over the curve point
+sur le point de courbe.
 
 32
 00:01:18,739 --> 00:01:20,079
-or drag that point,
+ou faites glisser ce point.
 
 33
 00:01:20,099 --> 00:01:23,780
-the dialog will display the curve point's coordinates
+la boîte de dialogue affichera les coordonnées du point de courbe.
 
 34
 00:01:23,780 --> 00:01:26,120
-rather than mouse pointer coordinates.
+plutôt que les coordonnées de la souris.
 
 35
 00:01:26,359 --> 00:01:29,079
-All in all, a bunch of very useful changes
+Dans l'ensemble, un tas de changements très utiles.
 
 36
 00:01:29,079 --> 00:01:31,420
-that improve GIMP's user experience.
+qui améliorent l'expérience utilisateur de GIMP.
 
