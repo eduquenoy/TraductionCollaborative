@@ -4,7 +4,7 @@ Le filtre des courbes dans GIMP
 
 2
 00:00:07,259 --> 00:00:09,679
-a récemment acqueri plusieurs améliorations importantes.
+a récemment acquéri plusieurs améliorations importantes.
 
 3
 00:00:10,259 --> 00:00:11,379
@@ -20,7 +20,7 @@ ce qui ne saurait tarder.
 
 6
 00:00:16,839 --> 00:00:19,320
-The most visible change is the numeric input
+Le changement le plus visible est la saisie numérique
 
 7
 00:00:19,640 --> 00:00:22,120
