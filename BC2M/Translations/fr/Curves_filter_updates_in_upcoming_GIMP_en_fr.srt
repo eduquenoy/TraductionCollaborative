@@ -36,7 +36,7 @@ cliquez pour sélectionner un point,
 
 10
 00:00:26,500 --> 00:00:29,500
-puis éditez ses coordonnées juste ici.
+puis modifier ses coordonées ici même.
 
 11
 00:00:30,579 --> 00:00:33,539
@@ -48,7 +48,7 @@ type de points précis.
 
 13
 00:00:35,100 --> 00:00:37,100
-Cela permet de rendre plus précis. 
+cela permet des transitions nettes
 
 14
 00:00:37,100 --> 00:00:38,899
