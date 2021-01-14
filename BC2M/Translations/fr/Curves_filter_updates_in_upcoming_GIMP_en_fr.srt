@@ -20,15 +20,15 @@ ce qui ne saurait tarder.
 
 6
 00:00:16,839 --> 00:00:19,320
-Le changement le plus visible est la saisie numérique
+The most visible change is the numeric input
 
 7
 00:00:19,640 --> 00:00:22,120
-pour ajouter les coordonnées des points sur la courbe.
+to set coordinates of points on the curve.
 
 8
 00:00:22,679 --> 00:00:24,440
-ça fonctionne comme prévu:
+It works just as expected:
 
 9
 00:00:24,760 --> 00:00:26,360
@@ -48,7 +48,7 @@ type de points précis.
 
 13
 00:00:35,100 --> 00:00:37,100
-Cela permet de rendre plus précis. 
+This allows making sharp
 
 14
 00:00:37,100 --> 00:00:38,899
