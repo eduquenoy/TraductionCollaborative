@@ -4,23 +4,23 @@ Le filtre des courbes dans GIMP
 
 2
 00:00:07,259 --> 00:00:09,679
-a récemment bénéficié de plusieurs améliorations utiles.
+recently got several useful improvements.
 
 3
 00:00:10,259 --> 00:00:11,379
-Vous y aurez accès
+You will have access to them
 
 4
 00:00:11,539 --> 00:00:14,879
-une fois que GIMP 2.10.12 sera publié.
+once GIMP 2.10.12 will be released,
 
 5
 00:00:15,119 --> 00:00:16,300
-ce qui ne saurait tarder à arriver.
+ce qui ne saurait tarder.
 
 6
 00:00:16,839 --> 00:00:19,320
-le changement le plus visible est la saisie numérique
+Le changement le plus visible est la saisie numérique
 
 7
 00:00:19,640 --> 00:00:22,120
@@ -40,7 +40,7 @@ puis modifier ses coordonées ici même.
 
 11
 00:00:30,579 --> 00:00:33,539
-L'autre grand changement est le nouveau
+L'autre grand changement est le nouveau introduit
 
 12
 00:00:33,539 --> 00:00:34,560
@@ -48,7 +48,7 @@ type de points précis.
 
 13
 00:00:35,100 --> 00:00:37,100
-cela permet des transitions nettes
+Cela permet de rendre plus précis. 
 
 14
 00:00:37,100 --> 00:00:38,899
@@ -60,7 +60,7 @@ et vous pouvez combiner des pointes pointues ou lisses.
 
 16
 00:00:41,880 --> 00:00:43,000
-sur une seule courbe.
+sur la seule courbe.
 
 17
 00:00:43,500 --> 00:00:45,100
@@ -68,11 +68,11 @@ Cliquez pour sélectionner un point,
 
 18
 00:00:45,100 --> 00:00:47,760
-puis cliquez ici pour sélectionner le type de point.
+puis cliquez ici pour sélectionner le type de point
 
 19
 00:00:49,320 --> 00:00:50,160
-Parlant de cela,
+En parlant de cela.
 
 20
 00:00:50,159 --> 00:00:52,839
@@ -88,23 +88,23 @@ De plus, maintenant, quand vous appuyez sur Ctrl.
 
 23
 00:00:58,799 --> 00:01:01,159
-en ajoutant ou en déplaçant un point sur une courbe,
+en ajoutant ou en déplaçant un point sur une courbe.
 
 24
 00:01:01,259 --> 00:01:02,619
-le point va se casser
+le point va s'arrêter.
 
 25
 00:01:02,619 --> 00:01:04,840
-au segment d'origine de la courbe,
+vers le segment d'origine de la courbe.
 
 26
 00:01:05,099 --> 00:01:08,039
-et toutes les modifications seront très minimes.
+et toutes modifications seront très faibles.
 
 27
 00:01:08,439 --> 00:01:09,819
-C'est idéal pour les projets 
+C'est idéal pour les projets. 
 
 28
 00:01:09,819 --> 00:01:12,259
@@ -112,23 +112,24 @@ Lorsque vous devez ajouter un tas de points à une courbe.
 
 29
 00:01:12,420 --> 00:01:14,180
-et vous en occuper plus tard.
+
+et traiter avec eux plus tard.
 
 30
 00:01:15,060 --> 00:01:17,540
-Enfin, lorsque vous survolez avec le pointeur de la souris
+Enfin, lorsque vous survolez avec votre souris.
 
 31
 00:01:17,540 --> 00:01:18,560
-au dessus du point de la courbe
+sur le point de courbe.
 
 32
 00:01:18,739 --> 00:01:20,079
-ou faites glisser ce point,
+ou faites glisser ce point.
 
 33
 00:01:20,099 --> 00:01:23,780
-la boîte de dialogue affichera les coordonnées du point de la courbe.
+la boîte de dialogue affichera les coordonnées du point de courbe.
 
 34
 00:01:23,780 --> 00:01:26,120
@@ -136,7 +137,7 @@ plutôt que les coordonnées du pointeur de la souris
 
 35
 00:01:26,359 --> 00:01:29,079
-Tout compte fait, un tas de changements très utiles.
+Dans l'ensemble, un tas de changements très utiles.
 
 36
 00:01:29,079 --> 00:01:31,420
