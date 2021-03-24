@@ -64,75 +64,75 @@ on a single curve
 
 17
 00:00:43,500 --> 00:00:45,100
-Click to select a point,
+Cliquez pour sélectionner un point,
 
 18
 00:00:45,100 --> 00:00:47,760
-then click here to select the point's type.
+puis cliquez ici pour sélectionner le type de point.
 
 19
 00:00:49,320 --> 00:00:50,160
-Speaking of which,
+A ce propos,
 
 20
 00:00:50,159 --> 00:00:52,839
-now when you click to select a point on a curve,
+maintenant, lorsque vous cliquez pour sélectionner un point sur une courbe,
 
 21
 00:00:52,840 --> 00:00:54,960
-GIMP does its best not to move it.
+GIMP fait de son mieux pour ne pas le déplacer.
 
 22
 00:00:55,820 --> 00:00:58,799
-Moreover, now when you press Ctrl
+De plus, lorsque vous appuyez sur Ctrl
 
 23
 00:00:58,799 --> 00:01:01,159
-while adding or dragging a point on a curve,
+en ajoutant ou en déplaçant un point sur une courbe,
 
 24
 00:01:01,259 --> 00:01:02,619
-the point will snap
+le point va s'accrocher
 
 25
 00:01:02,619 --> 00:01:04,840
-to the original segment of the curve,
+sur le segment d'origine de la courbe,
 
 26
 00:01:05,099 --> 00:01:08,039
-and all the changes will be very slight.
+et toutes les modifications seront très légères.
 
 27
 00:01:08,439 --> 00:01:09,819
-This is great for cases
+C'est génial pour les cas
 
 28
 00:01:09,819 --> 00:01:12,259
-when you need to add a bunch of points to a curve
+où vous avez besoin d'ajouter quelques points sur une courbe
 
 29
 00:01:12,420 --> 00:01:14,180
-and deal with them later.
+et vous en occuper plus tard.
 
 30
 00:01:15,060 --> 00:01:17,540
-Finally, when you hover the mouse pointer
+Enfin, lorsque vous survolez avec le pointeur de la souris
 
 31
 00:01:17,540 --> 00:01:18,560
-over the curve point
+sur le point de la courbe
 
 32
 00:01:18,739 --> 00:01:20,079
-or drag that point,
+ou que vous déplacez ce point,
 
 33
 00:01:20,099 --> 00:01:23,780
-the dialog will display the curve point's coordinates
+la boîte de dialogue affichera les coordonnées du point de la courbe
 
 34
 00:01:23,780 --> 00:01:26,120
-rather than mouse pointer coordinates.
+plutôt que les coordonnées du pointeur de la souris.
 
 35
 00:01:26,359 --> 00:01:29,079
