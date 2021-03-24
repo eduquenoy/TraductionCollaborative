@@ -1,22 +1,22 @@
 1
 00:00:06,160 --> 00:00:07,259
-The Curves filter in GIMP
+L'outil Courbes dans GIMP
 
 2
 00:00:07,259 --> 00:00:09,679
-recently got several useful improvements.
+a récemment reçu plusieurs améliorations utiles.
 
 3
 00:00:10,259 --> 00:00:11,379
-You will have access to them
+Vous y aurez accès
 
 4
 00:00:11,539 --> 00:00:14,879
-once GIMP 2.10.12 will be released,
+une fois que GIMP 2.10.12 sera publié,
 
 5
 00:00:15,119 --> 00:00:16,300
-which is soon enough.
+ce qui sera le cas très prochainement.
 
 6
 00:00:16,839 --> 00:00:19,320
@@ -32,11 +32,11 @@ It works just as expected:
 
 9
 00:00:24,760 --> 00:00:26,360
-click to select a point,
+cliquez pour sélectionner un point,
 
 10
 00:00:26,500 --> 00:00:29,500
-then edit its coordinates right here.
+puis éditez ses coordonnées juste ici.
 
 11
 00:00:30,579 --> 00:00:33,539
