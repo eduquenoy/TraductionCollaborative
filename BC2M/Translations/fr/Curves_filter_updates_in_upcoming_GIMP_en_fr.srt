@@ -20,11 +20,11 @@ ce qui sera le cas très prochainement.
 
 6
 00:00:16,839 --> 00:00:19,320
-The most visible change is the numeric input
+Le changement le plus visible est l'entrée numérique
 
 7
 00:00:19,640 --> 00:00:22,120
-to set coordinates of points on the curve.
+pour définir les coordonnées des points de la courbe.
 
 8
 00:00:22,679 --> 00:00:24,440
