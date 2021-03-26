@@ -48,11 +48,11 @@ type de pointes.
 
 13
 00:00:35,100 --> 00:00:37,100
-Cela permet de rendre nettes,
+Cela permet de rendre nettes
 
 14
 00:00:37,100 --> 00:00:38,899
-, plutôt que fluide, certaines transitions,
+plutôt que des transitions en douceur,
 
 15
 00:00:38,899 --> 00:00:41,759
@@ -64,7 +64,7 @@ sur une seule courbe
 
 17
 00:00:43,500 --> 00:00:45,100
-Cliquez pour sélectionner un point,
+Cliquer pour sélectionner un point,
 
 18
 00:00:45,100 --> 00:00:47,760
