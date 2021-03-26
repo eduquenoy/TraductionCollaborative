@@ -48,11 +48,11 @@ type de pointes.
 
 13
 00:00:35,100 --> 00:00:37,100
-Cela permet de rendre nettes
+Cela permet de rendre nettes,
 
 14
 00:00:37,100 --> 00:00:38,899
-plutôt que des transitions fluides,
+, plutôt que fluide, certaines transitions,
 
 15
 00:00:38,899 --> 00:00:41,759
