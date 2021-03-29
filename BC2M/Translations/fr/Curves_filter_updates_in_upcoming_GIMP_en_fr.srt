@@ -4,7 +4,7 @@ L'outil Courbes dans GIMP
 
 2
 00:00:07,259 --> 00:00:09,679
-a récemment reçu plusieurs améliorations utiles.
+a récemment obtenu plusieurs améliorations utiles.
 
 3
 00:00:10,259 --> 00:00:11,379
