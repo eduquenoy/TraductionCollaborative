@@ -44,7 +44,7 @@ L'autre grand changement est l'introduction d'un nouveau
 
 12
 00:00:33,539 --> 00:00:34,560
-type de pointes.
+type de points affûtés.
 
 13
 00:00:35,100 --> 00:00:37,100
@@ -52,7 +52,7 @@ Cela permet de rendre nettes
 
 14
 00:00:37,100 --> 00:00:38,899
-plutôt que des transitions en douceur,
+plutôt que des transitions fluides,
 
 15
 00:00:38,899 --> 00:00:41,759
@@ -64,7 +64,7 @@ sur une seule courbe
 
 17
 00:00:43,500 --> 00:00:45,100
-Cliquer pour sélectionner un point,
+Cliquez pour sélectionner un point,
 
 18
 00:00:45,100 --> 00:00:47,760
@@ -72,7 +72,7 @@ puis cliquez ici pour sélectionner le type de point.
 
 19
 00:00:49,320 --> 00:00:50,160
-A ce propos,
+À ce propos,
 
 20
 00:00:50,159 --> 00:00:52,839
@@ -96,7 +96,7 @@ le point va s'accrocher
 
 25
 00:01:02,619 --> 00:01:04,840
-sur le segment d'origine de la courbe,
+au segment d'origine de la courbe,
 
 26
 00:01:05,099 --> 00:01:08,039
@@ -108,7 +108,7 @@ C'est génial pour les cas
 
 28
 00:01:09,819 --> 00:01:12,259
-où vous avez besoin d'ajouter quelques points sur une courbe
+où vous devez ajouter un tas de points à une courbe
 
 29
 00:01:12,420 --> 00:01:14,180
