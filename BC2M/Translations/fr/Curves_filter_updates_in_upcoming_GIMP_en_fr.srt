@@ -84,11 +84,11 @@ GIMP fait de son mieux pour ne pas le déplacer.
 
 22
 00:00:55,820 --> 00:00:58,799
-De plus, lorsque vous appuyez sur Ctrl
+De plus, maintenant lorsque vous appuyez sur Ctrl
 
 23
 00:00:58,799 --> 00:01:01,159
-en ajoutant ou en déplaçant un point sur une courbe,
+tout en ajoutant ou en faisant glisser un point sur une courbe,
 
 24
 00:01:01,259 --> 00:01:02,619
@@ -100,7 +100,7 @@ au segment d'origine de la courbe,
 
 26
 00:01:05,099 --> 00:01:08,039
-et toutes les modifications seront très légères.
+et toutes les modifications seront très minimes.
 
 27
 00:01:08,439 --> 00:01:09,819
@@ -124,7 +124,7 @@ sur le point de la courbe
 
 32
 00:01:18,739 --> 00:01:20,079
-ou que vous déplacez ce point,
+ou que vous faites glisser ce point,
 
 33
 00:01:20,099 --> 00:01:23,780
