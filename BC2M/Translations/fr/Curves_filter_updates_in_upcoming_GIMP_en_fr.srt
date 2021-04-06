@@ -4,7 +4,7 @@ L'outil Courbes dans GIMP
 
 2
 00:00:07,259 --> 00:00:09,679
-a récemment obtenu plusieurs améliorations utiles.
+a récemment bénéficié de plusieurs améliorations utiles.
 
 3
 00:00:10,259 --> 00:00:11,379
@@ -20,7 +20,7 @@ ce qui sera le cas très prochainement.
 
 6
 00:00:16,839 --> 00:00:19,320
-Le changement le plus visible est l'entrée numérique
+Le changement le plus visible est la saisie numérique
 
 7
 00:00:19,640 --> 00:00:22,120
@@ -40,11 +40,11 @@ puis éditez ses coordonnées juste ici.
 
 11
 00:00:30,579 --> 00:00:33,539
-L'autre grand changement est l'introduction d'un nouveau
+L'autre gros changement est le nouvellement introduit
 
 12
 00:00:33,539 --> 00:00:34,560
-type de points affûtés.
+type de pointes.
 
 13
 00:00:35,100 --> 00:00:37,100
@@ -56,7 +56,7 @@ plutôt que des transitions fluides,
 
 15
 00:00:38,899 --> 00:00:41,759
-et vous pouvez combiner des points nets et lisses
+et vous pouvez combiner des points nets et des points lisses
 
 16
 00:00:41,880 --> 00:00:43,000
@@ -68,7 +68,7 @@ Cliquez pour sélectionner un point,
 
 18
 00:00:45,100 --> 00:00:47,760
-puis cliquez ici pour sélectionner le type de point.
+ensuite cliquez ici pour sélectionner le type de point.
 
 19
 00:00:49,320 --> 00:00:50,160
