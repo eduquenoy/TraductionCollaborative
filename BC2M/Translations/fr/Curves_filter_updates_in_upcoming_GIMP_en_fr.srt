@@ -4,11 +4,11 @@ The Curves filter in GIMP
 
 2
 00:00:07,259 --> 00:00:09,679
-a récemment obtenu plusieurs améliorations utiles.
+recently got several useful improvements.
 
 3
 00:00:10,259 --> 00:00:11,379
-Vous aurez accès à les
+You will have access to them
 
 4
 00:00:11,539 --> 00:00:14,879
@@ -48,7 +48,7 @@ sharp type of points.
 
 13
 00:00:35,100 --> 00:00:37,100
-Cela permet de rendre la netteté
+This allows making sharp
 
 14
 00:00:37,100 --> 00:00:38,899
@@ -60,7 +60,7 @@ and you can combine sharp and smooth points
 
 16
 00:00:41,880 --> 00:00:43,000
-une seule courbe
+on a single curve
 
 17
 00:00:43,500 --> 00:00:45,100
@@ -88,7 +88,7 @@ Moreover, now when you press Ctrl
 
 23
 00:00:58,799 --> 00:01:01,159
-en ajoutant ou en faisant glisser un point sur une courbe,
+while adding or dragging a point on a curve,
 
 24
 00:01:01,259 --> 00:01:02,619
