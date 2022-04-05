@@ -1,10 +1,10 @@
 1
 00:00:06,160 --> 00:00:07,259
-Le filtre Courbe dans GIMP.
+Le filtre Courbe dans GIMP
 
 2
 00:00:07,259 --> 00:00:09,679
-À récemment obtenu plusieurs améliorations utiles.
+a récemment obtenu plusieurs améliorations utiles.
 
 3
 00:00:10,259 --> 00:00:11,379
@@ -13,23 +13,23 @@ Vous y aurez accès.
 
 4
 00:00:11,539 --> 00:00:14,879
-quand GIMP 2.10.12 sera déployé,
+une fois que GIMP 2.10.12 sera publié,
 
 5
 00:00:15,119 --> 00:00:16,300
-Ce qui est suffisamment tôt.
+ce qui est suffisamment tôt.
 
 6
 00:00:16,839 --> 00:00:19,320
-Le changement le plus visible est l’entrée numérique.
+Le changement le plus visible est l’entrée numérique
 
 7
 00:00:19,640 --> 00:00:22,120
-Pour définir les coordonnées des points de la courbe.
+pour définir les coordonnées des points de la courbe.
 
 8
 00:00:22,679 --> 00:00:24,440
-Il fonctionne comme prévu : 
+Cela fonctionne comme prévu :
 
 9
 00:00:24,760 --> 00:00:26,360
@@ -37,7 +37,7 @@ cliquez pour sélectionner un point,
 
 10
 00:00:26,500 --> 00:00:29,500
-puis modifiez ses coordonnées ici.
+puis modifiez ses coordonnées à cet endroit.
 
 11
 00:00:30,579 --> 00:00:33,539
