@@ -1,34 +1,35 @@
 1
 00:00:06,160 --> 00:00:07,259
-Le filtre Courbe dans GIMP
+Le filtre Courbe dans GIMP.
 
 2
 00:00:07,259 --> 00:00:09,679
-a récemment obtenu plusieurs améliorations utiles.
+À récemment obtenu plusieurs améliorations utiles.
 
 3
 00:00:10,259 --> 00:00:11,379
-Vous y aurez accès
+Vous y aurez accès.
+
 
 4
 00:00:11,539 --> 00:00:14,879
-quand GIMP 2.10.12 sera déployé
+quand GIMP 2.10.12 sera déployé,
 
 5
 00:00:15,119 --> 00:00:16,300
-c'est à dire bientôt.
+Ce qui est suffisamment tôt.
 
 6
 00:00:16,839 --> 00:00:19,320
-Le changement le plus visible est la saisie numérique
+Le changement le plus visible est l’entrée numérique.
 
 7
 00:00:19,640 --> 00:00:22,120
-to set coordinates of points on the curve.
+Pour définir les coordonnées des points de la courbe.
 
 8
 00:00:22,679 --> 00:00:24,440
-It works just as expected:
+Il fonctionne comme prévu : 
 
 9
 00:00:24,760 --> 00:00:26,360
@@ -36,109 +37,109 @@ cliquez pour sélectionner un point,
 
 10
 00:00:26,500 --> 00:00:29,500
-then edit its coordinates right here.
+puis modifiez ses coordonnées ici.
 
 11
 00:00:30,579 --> 00:00:33,539
-The other big change is the newly introduced
+L'autre grand changement est l'introduction de la nouvelle 
 
 12
 00:00:33,539 --> 00:00:34,560
-sharp type of points.
+Des pointes de type pointu.
 
 13
 00:00:35,100 --> 00:00:37,100
-This allows making sharp
+Cela permet de rendre net
 
 14
 00:00:37,100 --> 00:00:38,899
-rather than smooth transitions,
+Plutôt que des transitions en douceur,
 
 15
 00:00:38,899 --> 00:00:41,759
-and you can combine sharp and smooth points
+Et vous pouvez combiner des points aigus Et lisses
 
 16
 00:00:41,880 --> 00:00:43,000
-on a single curve
+sur une seule courbe
 
 17
 00:00:43,500 --> 00:00:45,100
-cliquez pour sélectionner un point,
+Cliquez pour sélectionner un point,
 
 18
 00:00:45,100 --> 00:00:47,760
-ensuite cliquez ici pour sélectionner le type de point.
+Ensuite cliquez ici pour sélectionner le type de point.
 
 19
 00:00:49,320 --> 00:00:50,160
-Speaking of which,
+A ce propos, 
 
 20
 00:00:50,159 --> 00:00:52,839
-now when you click to select a point on a curve,
+Maintenant, lorsque vous cliquez pour sélectionner un point sur une courbe,
 
 21
 00:00:52,840 --> 00:00:54,960
-GIMP fait de son mieux pour ne pas le déplacer.
+GIMP fait de son mieux pour ne pas le déplacer. 
 
 22
 00:00:55,820 --> 00:00:58,799
-De plus, quand vous appuyez sur la touche Ctrl
+De plus, maintenant, lorsque vous appuyez sur Ctrl
 
 23
 00:00:58,799 --> 00:01:01,159
-while adding or dragging a point on a curve,
+quand vous ajoutez ou glissez un point sur une courbe,
 
 24
 00:01:01,259 --> 00:01:02,619
-the point will snap
+le point va s'enclencher
 
 25
 00:01:02,619 --> 00:01:04,840
-to the original segment of the curve,
+au segment d'origine de la courbe,
 
 26
 00:01:05,099 --> 00:01:08,039
-and all the changes will be very slight.
+et tous les changements seront très légers.
 
 27
 00:01:08,439 --> 00:01:09,819
-This is great for cases
+C'est idéal pour les cas 
 
 28
 00:01:09,819 --> 00:01:12,259
-when you need to add a bunch of points to a curve
+Lorsque vous devez ajouter un tas de points à une courbe
 
 29
 00:01:12,420 --> 00:01:14,180
-and deal with them later.
+Et les traiter plus tard.
 
 30
 00:01:15,060 --> 00:01:17,540
-Finally, when you hover the mouse pointer
+Enfin, lorsque vous survolez le pointeur de la souris
 
 31
 00:01:17,540 --> 00:01:18,560
-over the curve point
+Sur le point de la courbe 
 
 32
 00:01:18,739 --> 00:01:20,079
-or drag that point,
+Ou de faire glisser ce point,
 
 33
 00:01:20,099 --> 00:01:23,780
-the dialog will display the curve point's coordinates
+La boîte de dialogue affichera les coordonnées du point de La courbe
 
 34
 00:01:23,780 --> 00:01:26,120
-rather than mouse pointer coordinates.
+plutôt que les coordonnées du pointeur de la souris.
 
 35
 00:01:26,359 --> 00:01:29,079
-All in all, a bunch of very useful changes
+Dans l'ensemble, un tas de changements très utiles
 
 36
 00:01:29,079 --> 00:01:31,420
-that improve GIMP's user experience.
+Qui améliorent l'expérience utilisateur de GIMP.
 
