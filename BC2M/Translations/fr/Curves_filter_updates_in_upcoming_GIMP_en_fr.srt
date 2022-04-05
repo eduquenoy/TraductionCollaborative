@@ -1,26 +1,26 @@
 1
 00:00:06,160 --> 00:00:07,259
-The Curves filter in GIMP
+Le filtre Courbe dans GIMP
 
 2
 00:00:07,259 --> 00:00:09,679
-recently got several useful improvements.
+a récemment obtenu plusieurs améliorations utiles.
 
 3
 00:00:10,259 --> 00:00:11,379
-You will have access to them
+Vous y aurez accès
 
 4
 00:00:11,539 --> 00:00:14,879
-once GIMP 2.10.12 will be released,
+quand GIMP 2.10.12 sera déployé
 
 5
 00:00:15,119 --> 00:00:16,300
-which is soon enough.
+c'est à dire bientôt.
 
 6
 00:00:16,839 --> 00:00:19,320
-The most visible change is the numeric input
+Le changement le plus visible est la saisie numérique
 
 7
 00:00:19,640 --> 00:00:22,120
@@ -32,7 +32,7 @@ It works just as expected:
 
 9
 00:00:24,760 --> 00:00:26,360
-click to select a point,
+cliquez pour sélectionner un point,
 
 10
 00:00:26,500 --> 00:00:29,500
@@ -64,11 +64,11 @@ on a single curve
 
 17
 00:00:43,500 --> 00:00:45,100
-Click to select a point,
+cliquez pour sélectionner un point,
 
 18
 00:00:45,100 --> 00:00:47,760
-then click here to select the point's type.
+ensuite cliquez ici pour sélectionner le type de point.
 
 19
 00:00:49,320 --> 00:00:50,160
@@ -80,11 +80,11 @@ now when you click to select a point on a curve,
 
 21
 00:00:52,840 --> 00:00:54,960
-GIMP does its best not to move it.
+GIMP fait de son mieux pour ne pas le déplacer.
 
 22
 00:00:55,820 --> 00:00:58,799
-Moreover, now when you press Ctrl
+De plus, quand vous appuyez sur la touche Ctrl
 
 23
 00:00:58,799 --> 00:01:01,159
